@@ -4,6 +4,8 @@ Some usefull stuff on analizing bearings with FHN
 
 > [!IMPORTANT]
 > Probably a good idea to `addpath` like everything from this repo for all `.mlx` to work
+>
+> Double check path to solver and dataset in scripts
 
 - **[FHN_Data.mlx](./FHN_Data.mlx)**
 
